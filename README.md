@@ -30,6 +30,8 @@ Follow the schematic below for wiring:
   - One leg of the button → Pin 8 (digital input)
   - Other leg → Ground (GND)
 
+![Circuit Diagram](LCD_MESSAGES/sketch.png)
+
 **Note:** If you are using an LCD with an I2C interface, the connections will be different, and you'll need to install the appropriate libraries for I2C communication.
 
 ## Software Requirements
